@@ -6,14 +6,14 @@
 ### Contributions
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/fwdzh" alt="fwdzh's Github chart" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fwdzh&theme=flat&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
 ### Repositories
 
-- [cp_code](https://github.com/fwdzh/cp_code)：算法竞赛与练习代码
+- [cp_code](https://github.com/fwdzh/cp_code)：算法竞赛与练习代码  
 - [fwdzh.github.io](https://github.com/fwdzh/fwdzh.github.io)：个人网站源码
 
 ---
