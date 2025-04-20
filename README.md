@@ -6,7 +6,7 @@
 ### Contributions
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fwdzh&theme=flat&no-frame=true&margin-w=15" />
+  <img src="https://github-contributions.vercel.app/api?username=fwdzh&format=svg&color=gradient" />
 </p>
 
 ---
