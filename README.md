@@ -3,21 +3,24 @@
 
 ---
 
-### Tech Stack
+### Contributions
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://ghchart.rshah.org/fwdzh" alt="fwdzh's Github chart" />
 </p>
+
+---
+
+### Repositories
+
+- [cp_code](https://github.com/fwdzh/cp_code)：算法竞赛与练习代码
+- [fwdzh.github.io](https://github.com/fwdzh/fwdzh.github.io)：个人网站源码
 
 ---
 
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fwdzh&show_icons=true&theme=transparent" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwdzh&layout=compact&theme=transparent" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=fwdzh&show_icons=true&theme=transparent&hide_title=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fwdzh&theme=transparent&hide_title=true" height="165">
 </p>
